@@ -1,0 +1,7 @@
+#Sun Sep 17 23:56:51 IST 2017
+base.0=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_004ffcf511ac390dfe464a2f4e6b9b05a1849492
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d76ae8258e3e49a4bd466db8b2d486d3e833876f\\classes.dex
+base.1=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d76ae8258e3e49a4bd466db8b2d486d3e833876f
+file.0=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_004ffcf511ac390dfe464a2f4e6b9b05a1849492\\classes.dex

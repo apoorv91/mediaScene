@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\5ac7daae08fcefaeada654675e6c75fcf394ba75\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\anim\\abc_popup_exit.xml"
+    }
+]

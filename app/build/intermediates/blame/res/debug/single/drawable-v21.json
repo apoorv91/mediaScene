@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\Users\\laitkor\\Downloads\\ android studio projects\\mediascene\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\07d7e0c06e6d97e1110c298e94c4fbdc110560f8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]

@@ -1,0 +1,25 @@
+#Fri Aug 25 22:41:41 IST 2017
+renamed.7=classes5.dex
+renamed.6=classes.dex
+renamed.5=classes8.dex
+renamed.4=classes6.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes7.dex
+base.7=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3d166251c88e8a9afc1e054380b3fc897ed821b
+base.6=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_572720d655f7009210b8892a08f178198def1975
+base.5=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_5f8d84dc2e6051bf6155d4af721587585733f21b
+base.4=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6196ac327ed9ed935b5299fde4635ed9f02fa78
+base.3=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be9a99e207eabde3ad2c128375af079e711c5b21
+base.2=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_718bdcf0de3922617368290b0564b076de32dacf
+base.1=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_95428c6f9327f5995cb8c052b9ccf713ccf0dba9
+base.0=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_cafe36621610dfe2cd603c7227189b87e0ddd34a
+file.7=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c3d166251c88e8a9afc1e054380b3fc897ed821b\\classes.dex
+file.6=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_572720d655f7009210b8892a08f178198def1975\\classes.dex
+file.5=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_5f8d84dc2e6051bf6155d4af721587585733f21b\\classes.dex
+file.4=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d6196ac327ed9ed935b5299fde4635ed9f02fa78\\classes.dex
+file.3=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be9a99e207eabde3ad2c128375af079e711c5b21\\classes.dex
+file.2=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_718bdcf0de3922617368290b0564b076de32dacf\\classes.dex
+file.1=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_95428c6f9327f5995cb8c052b9ccf713ccf0dba9\\classes.dex
+file.0=E\:\\projcts\\mediascene\\mediascene\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_cafe36621610dfe2cd603c7227189b87e0ddd34a\\classes.dex
