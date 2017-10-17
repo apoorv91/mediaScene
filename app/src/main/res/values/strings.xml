@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">mediascene</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_media_by_folder_id">MediaByFolderId</string>
+
+    <string-array name="spinner_item">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+    </string-array>
+    <string name="title_activity_image_download">ImageDownload</string>
+    <string name="title_activity_set_image_data">SetImageData</string>
+</resources>
